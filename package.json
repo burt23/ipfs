@@ -1,6 +1,6 @@
 {
   "name": "ipfs",
-  "version": "0.37.2",
+  "version": "0.37.3",
   "description": "JavaScript implementation of the IPFS specification",
   "keywords": [
     "IPFS"
@@ -275,6 +275,7 @@
     "Marcin Rataj <lidel@lidel.org>",
     "Marius Darila <marius.darila@gmail.com>",
     "Mat Kelly <machawk1@gmail.com>",
+    "Michael Burton <dashurpa@gmail.com>",
     "Michelle Lee <michelle@protocol.ai>",
     "Mikeal Rogers <mikeal.rogers@gmail.com>",
     "Mithgol <getgit@mithgol.ru>",
