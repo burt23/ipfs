@@ -1,3 +1,13 @@
+<a name="0.37.2"></a>
+## [0.37.2](https://github.com/ipfs/js-ipfs/compare/v0.37.1...v0.37.2) (2019-08-25)
+
+
+### Bug Fixes
+
+* really allow logo to appear on npm ([02e521e](https://github.com/ipfs/js-ipfs/commit/02e521e))
+
+
+
 <a name="0.37.1"></a>
 ## [0.37.1](https://github.com/ipfs/js-ipfs/compare/v0.37.0...v0.37.1) (2019-08-23)
 
